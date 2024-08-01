@@ -27,7 +27,7 @@ Education
 Publications and Manuscripts
 ======
 
-**Lycopene detection in cherry tomatoes considering feature enhancement and data fusion**<br>
+Lycopene detection in cherry tomatoes considering feature enhancement and data fusion<br>
 **Zheng, Y.**, Luo, X., Gao, Y., Sun, Z., Xu, H., & Xie, L.*<br>
 [PDF]&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**Under review,&ensp;2024**
 
