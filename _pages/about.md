@@ -9,10 +9,9 @@ redirect_from:
 
 Hi, I am currently pursuing a Master’s degree in Agricultural Engineering at the [College of Biosystems Engineering and Food Science]( http://www.caefs.zju.edu.cn/caefsen/main.htm), [Zhejiang University]( https://www.zju.edu.cn/english/). My research focuses on the nondestructive detection of internal fruit quality based on NIR spectroscopy, supervised by [Prof. Lijuan Xie](https://person.zju.edu.cn/en/0009667#0). Before this, I obtained my Bachelor’s degree in Food Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), under the advisement of [Prof. Hui Zhang](https://person.zju.edu.cn/en/0009797).
 
-You can find my CV here: [Yuanhao Zheng' Curriculum Vitae](../files/CV.pdf)<br>
+You can find my CV here: [Yuanhao Zheng' Curriculum Vitae](../files/CV.pdf)<br>.
 <br>
 Feel free to contact me at [zhengyuanhao@zju.edu.cn](mailto:zhengyuanhao@zju.edu.cn) if you’d like to chat!<br>
-<br>
 <br>
 
 Education
@@ -48,7 +47,7 @@ Publications and Manuscripts
 
 **The alginate dialdehyde crosslinking on curcumin-loaded zein nanofibers for controllable release**<br>
 Li, J., **Zheng, Y.**, Wang, P.*, & Zhang, H. *  <br>
-[PDF]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.113944)]&ensp;&ensp;&ensp;&ensp;***Food Research International***&ensp;&ensp;**2024**
+[PDF]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.113944)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
 
 
 **Patent** **Detection equipment and method for carotenoid content in fruits. China Patent Application**<br>
