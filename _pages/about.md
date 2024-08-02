@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am currently pursuing a Master’s degree in Agricultural Engineering at the [College of Biosystems Engineering and Food Science]( http://www.caefs.zju.edu.cn/caefsen/main.htm), [Zhejiang University]( https://www.zju.edu.cn/english/). My research focuses on the nondestructive detection of internal fruit quality based on NIR spectroscopy, supervised by [Prof. Lijuan Xie](https://person.zju.edu.cn/en/0009667#0). Before this, I obtained my Bachelor’s degree in Food Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), under the advisement of [Prof. Hui Zhang](https://person.zju.edu.cn/en/0009797).
 
-You can find my CV here: [Yuanhao Zheng' Curriculum Vitae](../files/CV.pdf)<br>.
+You can find my CV here: [Yuanhao Zheng' Curriculum Vitae](../files/CV.pdf).  <br>
 <br>
 Feel free to contact me at [zhengyuanhao@zju.edu.cn](mailto:zhengyuanhao@zju.edu.cn) if you’d like to chat!<br>
 <br>
