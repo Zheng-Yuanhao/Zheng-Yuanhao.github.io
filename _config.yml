@@ -22,13 +22,13 @@ repository               : "Zheng-Yuanhao/Zheng-Yuanhao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuanhao Zheng（郑元浩）"
+  name             : "Yuanhao Zheng"
   pronouns         : # example: "she/her"  
   bio              : "a 3rd-year master student from ZJU"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University (ZJU)"
   uri              : # URL
-  email            : "zhengyuanhao@zju.edu.cn" 
+  email            : "yuenhozheng@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
