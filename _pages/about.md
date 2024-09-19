@@ -32,12 +32,12 @@ Publications and Manuscripts
 
 **Lycopene detection in cherry tomatoes considering feature enhancement and data fusion**<br>
 **Zheng, Y.**, Luo, X., Gao, Y., Sun, Z., Xu, H., & Xie, L.*  <br>
-[[PDF](../files/Lycopene detection in cherry tomatoes with feature enhancement and data fusion.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodchem.2024.141183)]&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**2024**
+[[PDF](Zheng-Yuanhao.github.io/files/Lycopene detection in cherry tomatoes with feature enhancement and data fusion.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodchem.2024.141183)]&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**2024**
 
 
 **Improving SSC detection accuracy of cherry tomatoes by feature synergy and complementary spectral bands combination**<br>
 **Zheng, Y.**, Liu, P., Zheng, Y., & Xie, L.*  <br>
-[[PDF](../files/Improving SSC detection accuracy of cherry tomatoes by feature synergy and complementary spectral bands combination.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.postharvbio.2024.112922)]&ensp;&ensp;&ensp;&ensp;***Postharvest Biology and Technology***&ensp;&ensp;**2024**
+[[PDF](Zheng-Yuanhao.github.io/files/Improving SSC detection accuracy of cherry tomatoes by feature synergy and complementary spectral bands combination.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.postharvbio.2024.112922)]&ensp;&ensp;&ensp;&ensp;***Postharvest Biology and Technology***&ensp;&ensp;**2024**
 
 
 **Improving discrimination accuracy of pest-infested crabapples using Vis/NIR spectral morphological features**<br>
