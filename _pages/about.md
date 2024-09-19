@@ -32,17 +32,17 @@ Publications and Manuscripts
 
 **Lycopene detection in cherry tomatoes considering feature enhancement and data fusion**<br>
 **Zheng, Y.**, Luo, X., Gao, Y., Sun, Z., Xu, H., & Xie, L.*  <br>
-[[PDF](../files/Lycopene detection in cherry tomatoes with feature enhancement and data fusion.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodchem.2024.141183)]&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**2024**
+[[PDF](../files/Lycopene%20detection%20in%20cherry%20tomatoes%20with%20feature%20enhancement%20and%20data%20fusion.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodchem.2024.141183)]&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**2024**
 
 
 **Improving SSC detection accuracy of cherry tomatoes by feature synergy and complementary spectral bands combination**<br>
 **Zheng, Y.**, Liu, P., Zheng, Y., & Xie, L.*  <br>
-[[PDF](Zheng-Yuanhao.github.io/files/Improving SSC detection accuracy of cherry tomatoes by feature synergy and complementary spectral bands combination.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.postharvbio.2024.112922)]&ensp;&ensp;&ensp;&ensp;***Postharvest Biology and Technology***&ensp;&ensp;**2024**
+[[PDF](../files/Improving%20SSC%20detection%20accuracy%20of%20cherry%20tomatoes%20by%20feature%20synergy%20and%20complementary%20spectral%20bands%20combination.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.postharvbio.2024.112922)]&ensp;&ensp;&ensp;&ensp;***Postharvest Biology and Technology***&ensp;&ensp;**2024**
 
 
 **Improving discrimination accuracy of pest-infested crabapples using Vis/NIR spectral morphological features**<br>
 **Zheng, Y.**, Zhou, Y., Liu, P., Zheng, Y., Wei, Z., Li, Z., & Xie, L.*  <br>
-[[PDF](../files/Improving discrimination accuracy of pest-infested crabapples using Vis-NIR spectral morphological features.pdf)]&ensp;[[DOI](https://doi.org/10.1007/s11694-024-02841-y)]&ensp;&ensp;&ensp;&ensp;***Journal of Food Measurement and Characteristic***&ensp;&ensp;&ensp;**2024**
+[[PDF](../files/Improving%20discrimination%20accuracy%20of%20pest-infested%20crabapples%20using%20Vis-NIR%20spectral%20morphological%20features.pdf)]&ensp;[[DOI](https://doi.org/10.1007/s11694-024-02841-y)]&ensp;&ensp;&ensp;&ensp;***Journal of Food Measurement and Characteristic***&ensp;&ensp;&ensp;**2024**
 
 
 **The alginate dialdehyde crosslinking on curcumin-loaded zein nanofibers for controllable release**<br>
