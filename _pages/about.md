@@ -32,22 +32,22 @@ Publications and Manuscripts
 
 **Lycopene detection in cherry tomatoes considering feature enhancement and data fusion**<br>
 **Zheng, Y.**, Luo, X., Gao, Y., Sun, Z., Xu, H., & Xie, L.*  <br>
-[PDF]&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**Under review,&ensp;2024**
+[[PDF](../files/Lycopene detection in cherry tomatoes with feature enhancement and data fusion.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodchem.2024.141183)]&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**2024**
 
 
 **Improving SSC detection accuracy of cherry tomatoes by feature synergy and complementary spectral bands combination**<br>
 **Zheng, Y.**, Liu, P., Zheng, Y., & Xie, L.*  <br>
-[PDF]&ensp;[[DOI](https://doi.org/10.1016/j.postharvbio.2024.112922)]&ensp;&ensp;&ensp;&ensp;***Postharvest Biology and Technology***&ensp;&ensp;**2024**
+[[PDF](../files/Improving SSC detection accuracy of cherry tomatoes by feature synergy and complementary spectral bands combination.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.postharvbio.2024.112922)]&ensp;&ensp;&ensp;&ensp;***Postharvest Biology and Technology***&ensp;&ensp;**2024**
 
 
 **Improving discrimination accuracy of pest-infested crabapples using Vis/NIR spectral morphological features**<br>
 **Zheng, Y.**, Zhou, Y., Liu, P., Zheng, Y., Wei, Z., Li, Z., & Xie, L.*  <br>
-[PDF]&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;***Journal of Food Measurement and Characteristic***&ensp;&ensp;&ensp;**Under review,&ensp;2024**
+[[PDF](../files/Improving discrimination accuracy of pest-infested crabapples using Vis-NIR spectral morphological features.pdf)]&ensp;[[DOI](https://doi.org/10.1007/s11694-024-02841-y)]&ensp;&ensp;&ensp;&ensp;***Journal of Food Measurement and Characteristic***&ensp;&ensp;&ensp;**2024**
 
 
 **The alginate dialdehyde crosslinking on curcumin-loaded zein nanofibers for controllable release**<br>
 Li, J., **Zheng, Y.**, Wang, P.*, & Zhang, H. *  <br>
-[PDF]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.113944)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
+[[PDF](../files/The alginate dialdehyde crosslinking on curcumin-loaded zein nanofibers for controllable release.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.113944)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
 
 
 **Patent** **Detection equipment and method for carotenoid content in fruits. China Patent Application**<br>
