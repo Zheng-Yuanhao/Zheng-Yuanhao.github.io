@@ -32,7 +32,7 @@ Publications and Manuscripts
 
 **Lycopene detection in cherry tomatoes considering feature enhancement and data fusion**<br>
 **Zheng, Y.**, Luo, X., Gao, Y., Sun, Z., Xu, H., & Xie, L.*  <br>
-[[PDF](Zheng-Yuanhao.github.io/files/Lycopene detection in cherry tomatoes with feature enhancement and data fusion.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodchem.2024.141183)]&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**2024**
+[[PDF](../files/Lycopene detection in cherry tomatoes with feature enhancement and data fusion.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodchem.2024.141183)]&ensp;&ensp;&ensp;&ensp;***Food Chemistry***&ensp;&ensp;&ensp;**2024**
 
 
 **Improving SSC detection accuracy of cherry tomatoes by feature synergy and complementary spectral bands combination**<br>
@@ -47,7 +47,7 @@ Publications and Manuscripts
 
 **The alginate dialdehyde crosslinking on curcumin-loaded zein nanofibers for controllable release**<br>
 Li, J., **Zheng, Y.**, Wang, P.*, & Zhang, H. *  <br>
-[[PDF](../files/The alginate dialdehyde crosslinking on curcumin-loaded zein nanofibers for controllable release.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.113944)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
+[[PDF](../files/The%20alginate%20dialdehyde%20crosslinking%20on%20curcumin-loaded%20zein%20nanofibers%20for%20controllable%20release.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.113944)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
 
 
 **Patent** **Detection equipment and method for carotenoid content in fruits. China Patent Application**<br>
