@@ -11,7 +11,7 @@ Hi, I am currently pursuing a Master’s degree in Agricultural Engineering at t
 
 You can find my CV here: [Yuanhao Zheng' Curriculum Vitae](../files/CV.pdf).  <br>
 <br>
-Feel free to contact me at [yuenhozheng@zju.edu.cn](mailto:yuenhozheng@zju.edu.cn) if you’d like to chat!<br>
+Feel free to contact me at [yuenhozheng@gmail.com](mailto:yuenhozheng@gmail.com) if you’d like to chat!<br>
 <br>
 
 Education
