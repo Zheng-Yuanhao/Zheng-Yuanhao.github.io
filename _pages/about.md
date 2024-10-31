@@ -49,8 +49,12 @@ Publications and Manuscripts
 Li, J., **Zheng, Y.**, Wang, P.*, & Zhang, H. *  <br>
 [[PDF](../files/The%20alginate%20dialdehyde%20crosslinking%20on%20curcumin-loaded%20zein%20nanofibers%20for%20controllable%20release.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.113944)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
 
+**Enhancing fruit SSC detection accuracy via a light attenuation theory-based correction method to mitigate measurement orientation variability**<br>
+Liu, P., **Zheng, Y.**, Tian, H., Xu, H., Xie, L.*<br>
+[[PDF](../files/The%20alginate%20dialdehyde%20crosslinking%20on%20curcumin-loaded%20zein%20nanofibers%20for%20controllable%20release.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.115024)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
 
-**Patent** **Detection equipment and method for carotenoid content in fruits. China Patent Application**<br>
+
+**[Patent]** **Detection equipment and method for carotenoid content in fruits. China Patent Application**<br>
  Xie, L., **Zheng, Y.**, Xu, H., Gao, T.<br>
-China Patent Application,&ensp;filed Dec 4th,&ensp;2023&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Patent Pending,&ensp;2023**
+China Patent Application,&ensp;filed Dec 4th,&ensp;2023&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Patent Pending,&ensp;2023**
 
