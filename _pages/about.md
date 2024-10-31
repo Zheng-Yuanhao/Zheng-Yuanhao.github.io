@@ -51,7 +51,7 @@ Li, J., **Zheng, Y.**, Wang, P.*, & Zhang, H. *  <br>
 
 **Enhancing fruit SSC detection accuracy via a light attenuation theory-based correction method to mitigate measurement orientation variability**<br>
 Liu, P., **Zheng, Y.**, Tian, H., Xu, H., Xie, L.*<br>
-[[PDF](../files/The%20alginate%20dialdehyde%20crosslinking%20on%20curcumin-loaded%20zein%20nanofibers%20for%20controllable%20release.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.115024)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
+[[PDF](../files/Enhancing%20fruit%20SSC%20detection%20accuracy%20via%20a%20light%20attenuation%20theory-based%20correction%20method%20to%20mitigate%20measurement%20orientation%20variability.pdf)]&ensp;[[DOI](https://doi.org/10.1016/j.foodres.2024.115024)]&ensp;&ensp;&ensp;&ensp; _**Food Research International**_ &ensp;&ensp;**2024**
 
 
 **[Patent]** **Detection equipment and method for carotenoid content in fruits. China Patent Application**<br>
