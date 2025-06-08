@@ -21,11 +21,11 @@ Hi there 👋.
 
 I am a third-year master's student in Agricultural Engineering at [<span style="color: blue;">Zhejiang University</span>](https://www.zju.edu.cn/english/),  working under the guidance of Prof. Lijuan Xie. My research focuses on the non-destructive detection of fruit quality based on NIR spectroscopy. Before this, I obtained my Bachelor's degree in Food Science and Engineering from the same institute.
 
-You can find my CV here. 📄 [<span style="color: orange;">Yuanhao's CV</span>](https://zheng-yuanhao.github.io/assets/CV.pdf).
+You can find my CV here. 📄 [<span style="color: blue;">Yuanhao's CV</span>](https://zheng-yuanhao.github.io/assets/CV.pdf).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.06*, M.Eng in Agricultural Electrification & Automation, Zhejiang University
+- *2017.09 - 2021.06*, B.Eng in Food Science & Engineering, Zhejiang University
 
 
 # 🔥 News
