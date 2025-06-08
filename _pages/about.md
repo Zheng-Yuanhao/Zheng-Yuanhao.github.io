@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋.
 
-I am a third-year master student at Agricultural Engineering, Zhejiang University. My research focuses on the non-destructive detection of fruit quality based on NIR spectroscopy, fortunately advised by Prof. Lijuan Xie. Before this, I obtained my Bachelor's degree in Food Science and Engineering from the same institute.
+I am a third-year master's student in Agricultural Engineering at [<span style="color: blue;">Zhejiang University</span>](https://www.zju.edu.cn/english/),  working under the guidance of Prof. Lijuan Xie. My research focuses on the non-destructive detection of fruit quality based on NIR spectroscopy. Before this, I obtained my Bachelor's degree in Food Science and Engineering from the same institute.
 
 You can find my CV here. 📄 Yuanhao's CV.
 
