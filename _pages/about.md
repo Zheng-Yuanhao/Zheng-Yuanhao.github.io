@@ -31,7 +31,7 @@ You can find my CV here. 📄 [<span style="color: blue;">Yuanhao's CV</span>](h
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉 Good news is on the way.
-- *2025.06*: &nbsp;🎉 I've received the 2025 McGill-CSC Scholarship.
+- *2025.06*: &nbsp;🎉 I've received the 2025 [<span style="color: blue;">McGill-CSC Scholarship</span>](https://www.mcgill.ca/gps/funding/intl/international/csc-chinese-students).
 <br><br>
 
 # 📝 Publications 
