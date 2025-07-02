@@ -31,7 +31,6 @@ You can find my CV here. 📄 [<span style="color: blue;">Yuanhao's CV</span>](h
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉 Good news is on the way.
-- *2025.06*: &nbsp;🎉 I've received the 2025 [<span style="color: blue;">McGill-CSC Scholarship</span>](https://www.mcgill.ca/gps/funding/intl/international/csc-chinese-students).
 <br><br>
 
 # 📝 Publications 
@@ -59,7 +58,6 @@ You can find my CV here. 📄 [<span style="color: blue;">Yuanhao's CV</span>](h
   [**PDF**](https://zheng-yuanhao.github.io/assets/The%20alginate%20dialdehyde%20crosslinking%20on%20curcumin-loaded%20zein%20nanofibers%20for%20controllable%20release.pdf)&nbsp;&nbsp;[**DOI**](https://doi.org/10.1016/j.foodres.2024.113944)&nbsp;&nbsp;*Food Research International*, 178, 113944.
 <br><br>
 # 🎖 Honors and Awards
-- *2025.06* McGill-CSC Scholarship
 - *2024.10* National Scholarship
 <br><br>
 
