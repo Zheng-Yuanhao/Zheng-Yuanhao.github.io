@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋.
 
-I obtained my M.Eng in Agricultural Engineering from [<span style="color: blue;">Zhejiang University</span>](https://www.zju.edu.cn/english/),  working under the guidance of Prof. [<span style="color: blue;">Lijuan Xie</span>](https://person.zju.edu.cn/en/0009667). My research focuses on the non-destructive detection of fruit quality based on NIR spectroscopy. Before this, I obtained my Bachelor's degree in Food Science and Engineering from the same institute.
+I obtained my M.Eng in Agricultural Electrification and Automation from [<span style="color: blue;">Zhejiang University</span>](https://www.zju.edu.cn/english/),  working under the guidance of Prof. [<span style="color: blue;">Lijuan Xie</span>](https://person.zju.edu.cn/en/0009667). My research focuses on the non-destructive detection of fruit quality based on Vis/NIR spectroscopy. Before this, I obtained my B.Eng in Food Science and Engineering from the same institute.
 
 You can find my CV here. 📄 [<span style="color: blue;">Yuanhao's CV</span>](https://zheng-yuanhao.github.io/assets/CV.pdf).
 <br><br>
